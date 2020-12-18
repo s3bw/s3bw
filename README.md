@@ -1,5 +1,7 @@
 ### Broomstick builder, Wand waxer, Cauldron cleaner, Magic maintainer 🌙
 
+- [Snippet Manager](https://github.com/foxyblue/snippet)
+
 <details><summary>pvt repos</summary>
 <p>
 Links to my private projects.
