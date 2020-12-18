@@ -1,8 +1,16 @@
 ### Broomstick builder, Wand waxer, Cauldron cleaner, Magic maintainer 🌙
 
-- [Snippet Manager](https://github.com/foxyblue/snippet)
+Packages:
 
-<details><summary>pvt repos</summary>
+- [envconfig](https://github.com/foxyblue/py-envconfig)
+- [vim-edit](https://github.com/foxyblue/vim-edit)
+
+Tools:
+
+- [Snippet Manager](https://github.com/foxyblue/snippet)
+- [Tinj](https://github.com/foxyblue/tinj)
+
+<details><summary>private repos</summary>
 <p>
 Links to my private projects.
 
