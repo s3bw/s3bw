@@ -4,6 +4,7 @@ Packages:
 
 - [envconfig](https://github.com/foxyblue/py-envconfig)
 - [vim-edit](https://github.com/foxyblue/vim-edit)
+- [sentinel-datetime](https://github.com/foxyblue/sentinel-datetime)
 
 Tools:
 
