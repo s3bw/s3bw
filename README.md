@@ -1,5 +1,15 @@
 ### Broomstick builder, Wand waxer, Cauldron cleaner, Magic maintainer 🌙
 
+<div style="
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;">
+  <div>
+    <p align="center">
+      <img src="https://metrics.lecoq.io/foxyblue?template=classic&base.activity=0&base.community=0&lines=1&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon">
+    </p>
+  </div>
+  <div>
 Packages:
 
 - [envconfig](https://github.com/foxyblue/py-envconfig)
@@ -19,3 +29,5 @@ Links to my private projects.
 - [shell-hints](https://github.com/foxyblue/tips)
 </p>
 </details>
+</div>
+</div>
