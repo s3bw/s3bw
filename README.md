@@ -1,4 +1,6 @@
-### Broomstick builder, Wand waxer, Cauldron cleaner, Magic maintainer 🌙
+### Play some games:
+
+https://s3bw.github.io/seafish/
 
 Packages:
 
