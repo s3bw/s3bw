@@ -12,7 +12,7 @@
 
 Packages:
 
-- [vimoji]((https://github.com/s3bw/vimoji) Converts :think: into 🤔
+- [vimoji](https://github.com/s3bw/vimoji) Converts :think: into 🤔
 - [envconfig](https://github.com/s3bw/py-envconfig)
 - [vim-edit](https://github.com/s3bw/vim-edit)
 
