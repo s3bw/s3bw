@@ -9,6 +9,7 @@
 - [mostxt](https://github.com/s3bw/mostxt) Turns templates into interfaces.
 - [kanki](https://github.com/s3bw/kanki) Flash cards on the cli.
 - [Tinj](https://github.com/s3bw/tinj) Parse lines of json logs.
+- [quickform](https://github.com/s3bw/quickform) Create themed online polls from the commandline. (powered by [Typeform](https://www.typeform.com/))
 
 Packages:
 
