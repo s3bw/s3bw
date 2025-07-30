@@ -6,6 +6,7 @@
 
 - [captain](https://github.com/s3bw/captain) Keep track of who to ask, tell and tasks.
 - [jumper](https://github.com/s3bw/jumper) Jump between projects.
+- [skipper](https://github.com/s3bw/skipper) Open new browser tabs.
 - [mostxt](https://github.com/s3bw/mostxt) Turns templates into interfaces.
 - [kanki](https://github.com/s3bw/kanki) Flash cards on the cli.
 - [Tinj](https://github.com/s3bw/tinj) Parse lines of json logs.
