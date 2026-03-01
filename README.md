@@ -2,6 +2,7 @@
 
 - [Puzzle-Break.Com](https://puzzle-break.com/)
 - [Chess](https://s3bw.github.io/seafish/)
+- [Minesweeper](https://s3bw.github.io/minesweeper/)
 
 #### CLI Tools:
 
