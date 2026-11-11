@@ -4,6 +4,10 @@
 - [Chess](https://s3bw.github.io/seafish/)
 - [Minesweeper](https://s3bw.github.io/minesweeper/)
 
+#### Get Shit Done
+
+- [Pernox](https://pernox.dev/)
+
 #### CLI Tools:
 
 - [captain](https://github.com/s3bw/captain) Keep track of who to ask, tell and tasks.
@@ -26,4 +30,4 @@ Links to my private projects.
 
 - [sebastien.docs](https://github.com/s3bw/sebastien.docs)
 </p>
-</details>
+</details]>
